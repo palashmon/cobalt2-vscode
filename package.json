@@ -37,6 +37,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20",
-    "vsce": "^1.36.2"
+    "vsce": "^2.13.0"
   }
 }
